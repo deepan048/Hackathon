@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-community
 faiss-cpu
 openai
 sentence-transformers
@@ -8,4 +9,3 @@ pymupdf
 python-dotenv
 fastapi
 uvicorn
-
