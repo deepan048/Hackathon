@@ -8,4 +8,4 @@ pymupdf
 python-dotenv
 fastapi
 uvicorn
-```[cite: 3, 4, 6]
+
